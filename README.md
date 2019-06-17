@@ -18,3 +18,5 @@ A simple Operating System with drag-drop, file browse, delete items etc. I have 
 # Technologies
 * Java
 * Java Swing
+
+#### For more please visit - http://raselsplanet.com/project/simple-operating-system/
